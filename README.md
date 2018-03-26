@@ -1,38 +1,38 @@
 User Manual<br>
 ===
 Introduction<br>
----
+
 JungleParty is a simple application used by children to practice their counting skills.<br>
 <br>
 Preparation:<br>
----
+
 Please make sure your computer has installed JDK. If do not, please download and install JDK.<br>
 <br>
 Version<br>
----
+
 There are four versions, Task1, Task2, Task3 and ExtraCredit.<br>
  <br>
 Steps to Run<br>
 Start the program<br>
 Step 1<br>
----
+
 Open command line (cmd.exe), and then set the path to location of this program’s files.<br>
 Ex: If you put this program files at desktop, you can enter the follow command to change path.<br>
 ‘cd C:\Users\lenovo\Desktop\JungleParty\(Version Name) ’<br>
 Note 1: Task1, Task2, Task3 or ExtraCredit can replace (Version Name).<br>
 Note 2: ‘Lenovo’ should be replaced by your user name.<br>
 Step 2<br>
----
+
 After finishing step1, compile JungleParty.java file. Use command ‘ javac JungleParty.java ’. <br>
 Note: You just do the step at the first time.<br>
 Step 3<br>
----
+
 For task1, task2 and task3, using command ‘java JungleParty’ to run these versions program.<br>
 For ExtraCredit, using command ‘java JungleParty number’ to run this version program.<br>
 Note: For running ExtraCredit version, number should be 10 to 20.<br>
 <br>
 Use the program<br>
----
+
 After finishing the three steps above, the program is running.<br>
 <br>
 Version 1 (Task 1)<br>
