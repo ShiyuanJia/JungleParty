@@ -1,14 +1,14 @@
-#### <center>User Manual</center>
+### <center>User Manual</center>
 
-##### Introduction
+#### Introduction
 
 *JungleParty* is a simple application used by children to practice their counting skills.
 
-##### Preparation
+#### Preparation
 
 Please make sure your computer has installed JDK. If do not, please download and install JDK.
 
-##### Steps to Run
+#### Steps to Run
 
 * Step 1
 
@@ -35,14 +35,14 @@ Please make sure your computer has installed JDK. If do not, please download and
 
     *Note: Forrunning ExtraCredit version, number should be 10 to 20.*
 
-##### Example
+#### Example
 
 * For *task1, task2 and task3*
    ![img](https://github.com/ShiyuanJia/JungleParty/blob/master/Documentation/UserManualPic/Task1.jpeg)
 * For *ExtraCredit*
    ![img](https://github.com/ShiyuanJia/JungleParty/blob/master/Documentation/UserManualPic/TaskExtra.jpeg)
 
-##### Use the program
+#### Use the program
 
 > After finishing the three steps above, the program is running
 
@@ -64,7 +64,7 @@ Please make sure your computer has installed JDK. If do not, please download and
 * *Version 4 (ExtraCredit)*
   * Besides the functions of Task 3, users can set the total images by themselves in thisversion. You should set the total number of images at step3. Then, you just doas the version 3.
 
-##### Figure example：
+#### Figure example：
 
 
 
@@ -72,7 +72,7 @@ Please make sure your computer has installed JDK. If do not, please download and
 
 
 
-Hint: Don not change the images in the files.*
+*Hint: Don not change the images in the files.*
 
 
 
