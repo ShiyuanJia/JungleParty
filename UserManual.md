@@ -38,9 +38,9 @@ Please make sure your computer has installed JDK. If do not, please download and
 ##### Example
 
 * For *task1, task2 and task3*
-  * [!img](https://github.com/ShiyuanJia/JungleParty/Documentation/UserManualPic/Task1.jpeg)
+   [!img](https://github.com/ShiyuanJia/JungleParty/blob/master/Documentation/UserManualPic/Task1.jpeg)
 * For *ExtraCredit*
-  * [!img](https://github.com/ShiyuanJia/JungleParty/Documentation/UserManualPic/TaskExtra.jpeg)
+   [!img](https://github.com/ShiyuanJia/JungleParty/blob/master/Documentation/UserManualPic/TaskExtra.jpeg)
 
 ##### Use the program
 
@@ -68,7 +68,7 @@ Please make sure your computer has installed JDK. If do not, please download and
 
 
 
-[!img](https://github.com/ShiyuanJia/JungleParty/Documentation/UserManualPic/Example.jpeg)
+[!img](https://github.com/ShiyuanJia/JungleParty/blob/master/Documentation/UserManualPic/Example.jpeg)
 
 
 
